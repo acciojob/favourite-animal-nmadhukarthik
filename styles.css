@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+img
+{
+	width: 500px;
+	border: 2px solid grey;
+	border-radius: 5%;
+}
